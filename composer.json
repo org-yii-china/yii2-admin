@@ -1,7 +1,6 @@
 {
     "name": "yii-china/yii2-admin",
     "description": "基于yii2的rbac权限扩展包",
-    "license":"YCNPG",
     "authors": [
         {
             "name": "huangxianan",
@@ -9,7 +8,7 @@
         }
     ],
 
-    "homepage":"www.yii-china.com",
+    "homepage":"http://www.yii-china.com",
     "minimum-stability": "dev",
 
     "require": {
