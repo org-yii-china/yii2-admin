@@ -12,6 +12,13 @@
     "minimum-stability": "stable",
     "version":"1.0.1",
 
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    },
+
     "require": {
         "yiisoft/yii2": "~2.0.7"
     },
