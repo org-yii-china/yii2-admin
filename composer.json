@@ -18,7 +18,6 @@
 
     "homepage":"http://www.yii-china.com",
     "minimum-stability": "stable",
-    "version":"1.0.1",
 
     "require": {
         "yiisoft/yii2": "~2.0.7"
@@ -39,9 +38,6 @@
     },
 
     "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.X-dev"
-        },
         "asset-installer-paths": {
             "npm-asset-library": "vendor/npm",
             "bower-asset-library": "vendor/bower"
