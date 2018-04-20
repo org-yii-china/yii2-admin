@@ -8,7 +8,7 @@ use yii\rbac\Rule;
 /**
  * RouteRule Rule for check route with extra params.
  *
- * @author Misbahul D Munir <misbahuldmunir@gmail.com>
+ * @author huangxianan <xianan_huang@163.com>
  * @since 1.0
  */
 class RouteRule extends Rule

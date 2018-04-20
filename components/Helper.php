@@ -11,7 +11,7 @@ use yii\web\User;
 /**
  * Description of Helper
  *
- * @author Misbahul D Munir <misbahuldmunir@gmail.com>
+ * @author huangxianan <xianan_huang@163.com>
  * @since 2.3
  */
 class Helper

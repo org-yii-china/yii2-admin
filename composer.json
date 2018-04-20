@@ -1,5 +1,13 @@
 {
     "name": "yii-china/yii2-admin",
+
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    },
+
     "description": "基于yii2的rbac权限扩展包",
     "authors": [
         {
@@ -11,13 +19,6 @@
     "homepage":"http://www.yii-china.com",
     "minimum-stability": "stable",
     "version":"1.0.1",
-
-    "repositories": {
-        "packagist": {
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
-        }
-    },
 
     "require": {
         "yiisoft/yii2": "~2.0.7"
@@ -38,6 +39,9 @@
     },
 
     "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.X-dev"
+        },
         "asset-installer-paths": {
             "npm-asset-library": "vendor/npm",
             "bower-asset-library": "vendor/bower"

@@ -17,7 +17,7 @@ use yii\rbac\Item;
  * @property integer $type
  * @property array $labels
  * 
- * @author Misbahul D Munir <misbahuldmunir@gmail.com>
+ * @author huangxianan <xianan_huang@163.com>
  * @since 1.0
  */
 class ItemController extends Controller

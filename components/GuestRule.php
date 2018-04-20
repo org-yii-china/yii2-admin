@@ -7,7 +7,7 @@ use yii\rbac\Rule;
 /**
  * Description of GuestRule
  *
- * @author Misbahul D Munir <misbahuldmunir@gmail.com>
+ * @author huangxianan <xianan_huang@163.com>
  * @since 2.5
  */
 class GuestRule extends Rule

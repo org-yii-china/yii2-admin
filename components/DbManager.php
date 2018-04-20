@@ -16,7 +16,7 @@ namespace mdm\admin\components;
  * You may change the names of the three tables used to store the authorization data by setting [[\yii\rbac\DbManager::$itemTable]],
  * [[\yii\rbac\DbManager::$itemChildTable]] and [[\yii\rbac\DbManager::$assignmentTable]].
  *
- * @author Misbahul D Munir <misbahuldmunir@gmail.com>
+ * @author huangxianan <xianan_huang@163.com>
  * @since 1.0
  */
 class DbManager extends \yii\rbac\DbManager

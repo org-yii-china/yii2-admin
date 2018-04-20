@@ -36,7 +36,7 @@ use mdm\admin\models\Menu;
  * $items = MenuHelper::getAssignedMenu(Yii::$app->user->id, null, $callback);
  * ```
  *
- * @author Misbahul D Munir <misbahuldmunir@gmail.com>
+ * @author huangxianan <xianan_huang@163.com>
  * @since 1.0
  */
 class MenuHelper

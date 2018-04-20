@@ -36,7 +36,7 @@ use yii\rbac\ManagerInterface;
  * ]);
  * ```
  *
- * @author Misbahul D Munir <misbahuldmunir@gmail.com>
+ * @author huangxianan <xianan_huang@163.com>
  * @since 1.0
  */
 class Configs extends \yii\base\Object
